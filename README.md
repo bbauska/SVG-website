@@ -1,4 +1,4 @@
-<h1>svg websites for web development</h1>
+<h1>SVG websites for web development</h1>
 
 <h2><a href="https://dev.to/bybydev/top-10-svg-pattern-generators-16h">Top 10 SVG Pattern Generators</a></h2>
 <ul>
